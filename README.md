@@ -25,6 +25,11 @@ changed benefits to an 'article' tag
 
 class content from div to section
 
+On my computer the edited page look great, on GitHub pages its too large.
+
+<img width="1269" alt="image" src="https://github.com/simon2781/challenge1/assets/131234378/f9b3071b-941a-4688-91bf-a554557d8a68">
+
+
 ## License
 
 I decided not to create a license for this repository
