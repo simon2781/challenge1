@@ -17,7 +17,11 @@ body {
 
 .header h1 {
     display: inline-block;
+<<<<<<< HEAD
     font-size: 40px;
+=======
+    font-size: 60px;
+>>>>>>> 8274c5ff1c7452bc147d210523e1b559304cc2cd
 }
 
 .header h1 .seo {
